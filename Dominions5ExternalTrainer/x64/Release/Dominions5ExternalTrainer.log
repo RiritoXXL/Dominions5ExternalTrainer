@@ -1,0 +1,1588 @@
+﻿  Drawing.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2059: syntax error: '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(313,2): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(313,2): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/Drawing.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'ImguiStand/Drawing.cpp')
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  UI.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2059: syntax error: '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(313,2): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(313,2): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'ImguiStand/UI.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'ImguiStand/UI.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'ImguiStand/UI.cpp')
+  
+  main.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(202,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(205,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(208,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(222,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(225,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(228,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(231,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(234,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(239,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(242,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(245,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(248,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(251,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(254,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(265,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(268,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(271,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(274,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(277,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(282,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(285,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(288,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(291,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2988: unrecognizable template declaration/definition
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,14): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(312,22): error C2059: syntax error: '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(313,2): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(313,2): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(347,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(350,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(353,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(356,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(375,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(380,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C2039: 'optional': is not a member of 'std'
+  (compiling source file 'main.cpp')
+      F:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.40.33807\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,15): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C2086: 'int libmem::optional': redefinition
+  (compiling source file 'main.cpp')
+      C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(199,7):
+      see declaration of 'libmem::optional'
+  
+C:\Users\aqax\source\repos\Dominions5ExternalTrainer\Libraries\libmem.hpp(383,7): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'main.cpp')
+  
